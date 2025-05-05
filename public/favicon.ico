@@ -1,0 +1,760 @@
+<!DOCTYPE html><!-- Last Published: Wed Apr 23 2025 02:53:54 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.withorb.com" data-wf-page="64d69bebdfe5074323543f57" data-wf-site="64d69beadfe5074323543ebd" lang="en"><head><meta charset="utf-8"/><title>Not Found</title><meta content="Not Found" property="og:title"/><meta content="Not Found" property="twitter:title"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/css/orb-2023-revamp.shared.d3e372052.min.css" rel="stylesheet" type="text/css"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["DM Mono:regular,500"]  }});</script><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6734e41b3fb9b25a198a0cca_Union.png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/64d69cf08807cc80ded99283_628db682895bb36bb1f07265_615f13b0c451d191dfc4806a_256_Orb-Logomark_Dark.png" rel="apple-touch-icon"/><link href="https://www.withorb.com/404" rel="canonical"/>
+<script src="https://darkvisitors.com/tracker.js?project_key=22ce3164-57df-4e0f-a73f-3505f7bd82d5"></script>
+
+<!-- Please keep this css code to improve the font quality-->
+<style>
+  * {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -o-font-smoothing: antialiased;
+}
+</style>
+
+<!-- [Attributes by Finsweet] Disable scrolling -->
+<script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-scrolldisable@1/scrolldisable.js"></script>
+
+<!-- Floating Form styles --> 
+<style>
+.field-label {
+	pointer-events: none;
+}
+
+.form-input::placeholder {
+	opacity: 0;
+  transition: opacity .3s ease-out;
+}
+
+.form-input:focus::placeholder {
+	opacity: 1;
+}
+</style>
+
+<!-- [Attributes by Finsweet] Query Param -->
+<script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-queryparam@1/queryparam.js"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M5S9J2Z');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Twitter conversion tracking base code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+twq('config','oeq0y');
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0L7ZJS34C0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0L7ZJS34C0');
+</script>
+
+<!-- Koala SDK -->
+<script>
+!function(t){if(window.ko)return;window.ko=[],["identify","track","removeListeners","open","on","off","qualify","ready"].forEach(function(t){ko[t]=function(){var n=[].slice.call(arguments);return n.unshift(t),ko.push(n),ko}});var n=document.createElement("script");n.async=!0,n.setAttribute("src","https://cdn.getkoala.com/v1/pk_20e72b95540bab357b283e8154362342ca6b/sdk.js"),(document.body || document.head).appendChild(n)}();
+</script>
+
+<!-- Warmly SDK -->
+<script id="warmly-script-loader" src="https://opps-widget.getwarmly.com/warmly.js?clientId=ee57bb8f643ee7bfbd7f38358780d064" defer></script>
+
+<!-- Vector SDK -->
+<script>
+    !function(e,r){try{if(e.vector)return void console.log("Vector snippet included more than once.");var t={};t.q=t.q||[];for(var o=["load","identify","on"],n=function(e){return function(){var r=Array.prototype.slice.call(arguments);t.q.push([e,r])}},c=0;c<o.length;c++){var a=o[c];t[a]=n(a)}if(e.vector=t,!t.loaded){var i=r.createElement("script");i.type="text/javascript",i.async=!0,i.src="https://cdn.vector.co/pixel.js";var l=r.getElementsByTagName("script")[0];l.parentNode.insertBefore(i,l),t.loaded=!0}}catch(e){console.error("Error loading Vector:",e)}}(window,document);
+    vector.load("fed8914b-2d82-42b0-92a3-e5da13807f3f");
+</script>
+
+<script type="text/javascript">
+_linkedin_partner_id = "5010028";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=5010028&fmt=gif" />
+</noscript>
+
+<style>
+  /* Table Wrapper Styling */
+.table-wrapper {
+  max-width: 100%;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  border-radius: 0.5rem;
+  border: 1px solid #3683ff;
+}
+/* Table Styling */
+table {
+  width: 100% !important; /* Force 100% width with !important to override inline styles */
+  border-collapse: collapse;
+  border-spacing: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  color: #333;
+}
+/* Column Styling */
+colgroup col {
+  width: auto !important; /* Make columns adapt to available space */
+}
+/* Header Styling */
+thead th {
+  background-color: #fafafa;
+  padding: 1rem 1.25rem;
+  text-align: center; /* center align content */
+  font-weight: 600;
+  font-size: 0.875rem;
+  color: #333;
+  border-bottom: 1px solid #3683ff;
+  border-right: 1px solid #3683ff;
+}
+thead th:last-child {
+  border-right: none; /* remove extra right border */
+}
+/* Table Cell Styling */
+tbody td {
+  padding: 1rem 1.25rem;
+  font-size: 0.875rem;
+  text-align: center; /* center align content */
+  border-bottom: 1px solid #3683ff;
+  border-right: 1px solid #3683ff;
+}
+tbody td:last-child {
+  border-right: none; /* remove extra right border */
+}
+/* List Styling inside Tables */
+table td ul, 
+table td ol, 
+table td li,
+table th ul,
+table th ol,
+table th li {
+  font-size: 0.875rem !important; /* Match the font size of table text and force override */
+  text-align: left !important; /* Left align lists for better readability */
+  margin: 0;
+  padding-left: 1.25rem;
+}
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  thead th,
+  tbody td {
+    padding: 0.75rem 1rem;
+  }
+}
+</style></head><body><div class="page-wrapper"><div class="navbar_parent"><div data-animation="default" class="navbar_component w-nav" data-easing2="ease" fs-scrolldisable-element="smart-nav" data-easing="ease" data-collapse="medium" data-w-id="0d44ef74-6181-3cdc-114f-e00147db27ec" role="banner" data-duration="400"><div class="navbar_container"><a href="/" data-event-name="logo_clicked" data-event-location="nav" class="navbar_logo-link w-nav-brand"><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/64d69fd221c91c565a5f7600_Group%2067.svg" loading="eager" width="100" height="Auto" alt="orb logo" class="navbar_logo"/></a><nav role="navigation" class="navbar_menu w-nav-menu"><div class="navbar_menu-left"><div data-hover="true" data-delay="0" data-w-id="0d44ef74-6181-3cdc-114f-e00147db27f8" class="navbar_menu-dropdown-mega w-dropdown"><div class="navbar_dropdown-toggle-mega w-dropdown-toggle"><div class="dropdown-icon w-embed"><svg width=" 100%" height=" 100%" viewBox="0 0 14 8" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path id="Vector 335 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M7.56694 7.56694C7.32286 7.81102 6.92714 7.81102 6.68306 7.56694L0.433058 1.31694C0.188981 1.07286 0.188981 0.677136 0.433058 0.433059C0.677137 0.188981 1.07286 0.188981 1.31694 0.433059L7.125 6.24112L12.9331 0.433059C13.1771 0.188981 13.5729 0.18898 13.8169 0.433059C14.061 0.677136 14.061 1.07286 13.8169 1.31694L7.56694 7.56694Z" fill="currentColor"/>
+</svg></div><div>Products</div><div class="navbar_dropdown-bottom-decoration"></div></div><nav class="navbar_dropdown-list-parent w-dropdown-list"><div class="navbar_dropdown-list-mega"><div class="navbar_container-mega"><div class="navbar_dropdown-content"><div class="navbar_dropdown-content-left-features is-4-col"><div id="w-node-_0d44ef74-6181-3cdc-114f-e00147db2801-6ec78db8" class="navbar_dropdown-link-list"><a data-event-name="usage_tracking_clicked" data-event-location="nav" href="/features/usage-tracking" class="navbar_dropdown-link-mega w-inline-block"><div class="button is-link is-navbar"><div class="navbar_dropdown-item-heading">Usage Tracking</div><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6501f401618f4d7165332392_arrow-long-right%20blue.svg" loading="lazy" alt="" class="button_right-arrow"/></div><p class="navbar_dropdown-item-subtext">Your single source of truth for accurate billing</p></a><a data-event-name="pricing_models_clicked" data-event-location="nav" href="/features/pricing-models" class="navbar_dropdown-link-mega w-inline-block"><div class="button is-link is-navbar"><div class="navbar_dropdown-item-heading">Pricing Models</div><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6501f401618f4d7165332392_arrow-long-right%20blue.svg" loading="lazy" alt="" class="button_right-arrow"/></div><p class="navbar_dropdown-item-subtext">Discounts, credits, and new ways to grow your revenue</p></a></div><div id="w-node-_0d44ef74-6181-3cdc-114f-e00147db2824-6ec78db8" class="navbar_dropdown-link-list"><a data-event-name="invoicing_clicked" data-event-location="nav" data-w-id="8c366fc4-45bd-3cf6-8753-92a97d5f259f" href="/features/invoicing" class="navbar_dropdown-link-mega w-inline-block"><div class="button is-link is-navbar"><div class="navbar_dropdown-item-heading">Invoicing</div><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6501f401618f4d7165332392_arrow-long-right%20blue.svg" loading="lazy" alt="" class="button_right-arrow"/></div><p class="navbar_dropdown-item-subtext">Real-time, visual data that gives customers full transparency</p></a><a data-event-name="reporting_clicked" data-event-location="nav" href="/features/reporting" class="navbar_dropdown-link-mega w-inline-block"><div class="button is-link is-navbar"><div class="navbar_dropdown-item-heading">Reporting</div><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6501f401618f4d7165332392_arrow-long-right%20blue.svg" loading="lazy" alt="" class="button_right-arrow"/></div><p class="navbar_dropdown-item-subtext">Accurate data, seamlessly synced for your finance team</p></a></div><div id="w-node-f24009b3-7bd3-3771-dcfb-13cdf1280ee3-6ec78db8" class="navbar_dropdown-link-list"><a data-event-name="simulations_clicked" data-event-location="nav" href="/simulations" class="navbar_dropdown-link-mega w-inline-block"><div class="button is-link is-navbar"><div class="navbar_dropdown-item-heading">Simulations</div><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6501f401618f4d7165332392_arrow-long-right%20blue.svg" loading="lazy" alt="" class="button_right-arrow"/></div><p class="navbar_dropdown-item-subtext">Risk-free pricing simulations for smarter revenue decisions</p></a><div class="is-hidden-mobile"><div class="button-group"><a data-event-name="sandbox_clicked" data-event-location="nav" href="https://demo.withorb.com/" target="_blank" class="navbar_cta-item w-inline-block"><div class="navbar_cta-button-sandbox is-static"><div>See orb in action</div><div class="navbar_cta-arrow w-embed"><svg width=" 100%" height=" 100%" viewBox="0 0 20 20" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2 10C2 9.58579 2.33579 9.25 2.75 9.25L15.3401 9.25L13.2397 7.2996C12.9361 7.01775 12.9186 6.5432 13.2004 6.23966C13.4823 5.93613 13.9568 5.91856 14.2603 6.20041L17.7603 9.45041C17.9132 9.59232 18 9.79145 18 10C18 10.2086 17.9132 10.4077 17.7603 10.5496L14.2603 13.7996C13.9568 14.0815 13.4823 14.0639 13.2004 13.7603C12.9186 13.4568 12.9361 12.9823 13.2397 12.7004L15.3401 10.75L2.75 10.75C2.33579 10.75 2 10.4142 2 10Z" fill="currentColor"/>
+</svg></div></div></a><link rel="prefetch" href="https://demo.withorb.com/"/></div></div></div></div></div></div></div></nav></div><div data-hover="true" data-delay="0" data-w-id="a689d334-812c-43e7-7914-b47e92dd822a" class="navbar_menu-dropdown-mega w-dropdown"><div class="navbar_dropdown-toggle-mega w-dropdown-toggle"><div class="dropdown-icon w-embed"><svg width=" 100%" height=" 100%" viewBox="0 0 14 8" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path id="Vector 335 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M7.56694 7.56694C7.32286 7.81102 6.92714 7.81102 6.68306 7.56694L0.433058 1.31694C0.188981 1.07286 0.188981 0.677136 0.433058 0.433059C0.677137 0.188981 1.07286 0.188981 1.31694 0.433059L7.125 6.24112L12.9331 0.433059C13.1771 0.188981 13.5729 0.18898 13.8169 0.433059C14.061 0.677136 14.061 1.07286 13.8169 1.31694L7.56694 7.56694Z" fill="currentColor"/>
+</svg></div><div class="navbar_dropdown-bottom-decoration"></div><div>Solutions</div></div><nav class="navbar_dropdown-list-parent w-dropdown-list"><div class="navbar_dropdown-list-mega"><div class="navbar_container-mega"><div class="navbar_dropdown-content"><div class="navbar_dropdown-content-left-solutions"><div id="w-node-f2a01858-b598-57ae-bee2-d9962782e18c-6ec78db8" class="navbar_dropdown-category-group is-teams"><div class="navbar_dropdown-gategory-group-heading">Teams</div><div class="navbar_dropdown-category-group-list"><a data-event-name="product_teams_clicked" data-event-location="nav" href="/solutions/product" class="navbar_dropdown-link-mega w-inline-block"><div class="button is-link is-navbar"><div class="navbar_dropdown-item-heading">Product</div><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6501f401618f4d7165332392_arrow-long-right%20blue.svg" loading="lazy" alt="" class="button_right-arrow"/></div></a><a data-event-name="finance_clicked" data-event-location="nav" href="/solutions/finance" class="navbar_dropdown-link-mega w-inline-block"><div class="button is-link is-navbar"><div class="navbar_dropdown-item-heading">Finance</div><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6501f401618f4d7165332392_arrow-long-right%20blue.svg" loading="lazy" alt="" class="button_right-arrow"/></div></a><a data-event-name="engineering_clicked" data-event-location="nav" href="/solutions/engineers" class="navbar_dropdown-link-mega w-inline-block"><div class="button is-link is-navbar"><div class="navbar_dropdown-item-heading">Engineering</div><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6501f401618f4d7165332392_arrow-long-right%20blue.svg" loading="lazy" alt="" class="button_right-arrow"/></div></a></div></div><div id="w-node-_00632195-d2fd-4938-0e4c-91c29621109b-6ec78db8" class="navbar_dropdown-category-group is-use-cases"><div class="navbar_dropdown-gategory-group-heading">use cases</div><div class="navbar_dropdown-category-group-list"><a data-event-name="price-changes_clicked" data-event-location="nav" href="/solutions/price-changes" class="navbar_dropdown-link-mega w-inline-block"><div class="button is-link is-navbar"><div class="navbar_dropdown-item-heading">price changes</div><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6501f401618f4d7165332392_arrow-long-right%20blue.svg" loading="lazy" alt="" class="button_right-arrow"/></div><p class="navbar_dropdown-item-subtext">Get your price changes under control</p></a><a data-event-name="ai_clicked" data-event-location="nav" href="/ai" class="navbar_dropdown-link-mega w-inline-block"><div class="button is-link is-navbar"><div class="navbar_dropdown-item-heading">AI</div><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6501f401618f4d7165332392_arrow-long-right%20blue.svg" loading="lazy" alt="" class="button_right-arrow"/></div><p class="navbar_dropdown-item-subtext">Billing that&#x27;s built for AI</p></a></div></div></div><div class="navbar_dropdown-content-right"><div class="navbar_dropdown-cta-section-wrapper z-index-1"><div class="navbar_dropdown-cta-wrapper"><a data-event-name="sandbox_clicked" data-event-location="nav" href="https://demo.withorb.com/" target="_blank" class="navbar_cta-item w-inline-block"><div class="navbar_cta-image-wrapper"><div class="navbar_cta-button-sandbox"><div>See it in action</div><div class="navbar_cta-arrow w-embed"><svg width=" 100%" height=" 100%" viewBox="0 0 20 20" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2 10C2 9.58579 2.33579 9.25 2.75 9.25L15.3401 9.25L13.2397 7.2996C12.9361 7.01775 12.9186 6.5432 13.2004 6.23966C13.4823 5.93613 13.9568 5.91856 14.2603 6.20041L17.7603 9.45041C17.9132 9.59232 18 9.79145 18 10C18 10.2086 17.9132 10.4077 17.7603 10.5496L14.2603 13.7996C13.9568 14.0815 13.4823 14.0639 13.2004 13.7603C12.9186 13.4568 12.9361 12.9823 13.2397 12.7004L15.3401 10.75L2.75 10.75C2.33579 10.75 2 10.4142 2 10Z" fill="currentColor"/>
+</svg></div></div><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6536d82ede33cbffd5927951_Big%20btn%20-%20Try%20sandbox.webp" loading="lazy" alt="" class="navbar_cta-image"/></div></a><link rel="prefetch" href="https://demo.withorb.com/"/></div></div></div></div></div></div></nav></div><a href="https://docs.withorb.com/" data-event-name="docs_clicked" data-event-location="nav" target="_blank" class="navbar_link w-nav-link">Docs</a><div data-hover="true" data-delay="0" data-w-id="715d3ba1-fe2e-e4ee-b292-3f571f98cec6" class="navbar_menu-dropdown-mega w-dropdown"><div class="navbar_dropdown-toggle-mega w-dropdown-toggle"><div class="dropdown-icon w-embed"><svg width=" 100%" height=" 100%" viewBox="0 0 14 8" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path id="Vector 335 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M7.56694 7.56694C7.32286 7.81102 6.92714 7.81102 6.68306 7.56694L0.433058 1.31694C0.188981 1.07286 0.188981 0.677136 0.433058 0.433059C0.677137 0.188981 1.07286 0.188981 1.31694 0.433059L7.125 6.24112L12.9331 0.433059C13.1771 0.188981 13.5729 0.18898 13.8169 0.433059C14.061 0.677136 14.061 1.07286 13.8169 1.31694L7.56694 7.56694Z" fill="currentColor"/>
+</svg></div><div>Resources</div><div class="navbar_dropdown-bottom-decoration"></div></div><nav class="navbar_dropdown-list-parent w-dropdown-list"><div class="navbar_dropdown-list-mega"><div class="navbar_container-mega"><div class="navbar_dropdown-content"><div class="navbar_dropdown-content-left"><div id="w-node-_715d3ba1-fe2e-e4ee-b292-3f571f98ced0-6ec78db8" class="navbar_dropdown-link-list"><a data-event-name="blog_clicked" data-event-location="nav" href="/blog" class="navbar_dropdown-link-mega w-inline-block"><div class="button is-link is-navbar"><div class="navbar_dropdown-item-heading">Blog</div><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6501f401618f4d7165332392_arrow-long-right%20blue.svg" loading="lazy" alt="" class="button_right-arrow"/></div><p class="navbar_dropdown-item-subtext">News and thoughts from the Orb team</p></a><a data-event-name="changelog_clicked" data-event-location="nav" href="https://changelog.withorb.com/" target="_blank" class="navbar_dropdown-link-mega w-inline-block"><div class="button is-link is-navbar"><div class="navbar_dropdown-item-heading">Changelog</div><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6501f401618f4d7165332392_arrow-long-right%20blue.svg" loading="lazy" alt="" class="button_right-arrow"/></div><p class="navbar_dropdown-item-subtext">Track our most recent product updates</p></a></div><div id="w-node-_715d3ba1-fe2e-e4ee-b292-3f571f98cedb-6ec78db8" class="navbar_dropdown-link-list"><a data-event-name="case_studies_clicked" data-event-location="nav" href="/case-studies" class="navbar_dropdown-link-mega w-inline-block"><div class="button is-link is-navbar"><div class="navbar_dropdown-item-heading">Case Studies</div><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6501f401618f4d7165332392_arrow-long-right%20blue.svg" loading="lazy" alt="" class="button_right-arrow"/></div><p class="navbar_dropdown-item-subtext">How leading companies are solving billing</p></a><a data-event-name="press_clicked" data-event-location="nav" href="/press" class="navbar_dropdown-link-mega w-inline-block"><div class="button is-link is-navbar"><div class="navbar_dropdown-item-heading">Press &amp; News</div><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6501f401618f4d7165332392_arrow-long-right%20blue.svg" loading="lazy" alt="" class="button_right-arrow"/></div><p class="navbar_dropdown-item-subtext">Orb&#x27;s latest news and media features</p></a></div></div><div class="navbar_dropdown-content-right"><div class="navbar_dropdown-cta-section-wrapper z-index-1"><div class="navbar_dropdown-cta-wrapper"><a data-event-name="hiring_clicked" data-event-location="nav" data-w-id="be2decec-938d-4617-a753-4c96319fee3e" href="https://jobs.ashbyhq.com/orb" target="_blank" class="navbar_cta-item w-inline-block"><div class="navbar_cta-image-wrapper-hiring"><img loading="lazy" src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6605faa56c4c923785ea7cc9_Try%20sandbox%402x.webp" alt="" class="navbar_cta-image is-hiring"/><div class="navbar_cta-content-wrapper"><div class="navbar_cta-heading">We&#x27;re hiring</div><div class="spacer-xxsmall"></div><div class="navbar_cta-button-hiring"><div>Browse Open Roles</div><div class="navbar_cta-arrow w-embed"><svg width=" 100%" height=" 100%" viewBox="0 0 20 20" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2 10C2 9.58579 2.33579 9.25 2.75 9.25L15.3401 9.25L13.2397 7.2996C12.9361 7.01775 12.9186 6.5432 13.2004 6.23966C13.4823 5.93613 13.9568 5.91856 14.2603 6.20041L17.7603 9.45041C17.9132 9.59232 18 9.79145 18 10C18 10.2086 17.9132 10.4077 17.7603 10.5496L14.2603 13.7996C13.9568 14.0815 13.4823 14.0639 13.2004 13.7603C12.9186 13.4568 12.9361 12.9823 13.2397 12.7004L15.3401 10.75L2.75 10.75C2.33579 10.75 2 10.4142 2 10Z" fill="currentColor"/>
+</svg></div></div></div></div></a></div></div></div></div></div></div></nav></div><a href="/pricing" data-event-name="pricing_clicked" data-event-location="nav" class="navbar_link w-nav-link">Pricing</a><div class="navbar_show-tablet"><a href="https://jobs.ashbyhq.com/orb" data-event-name="careers_clicked" data-event-location="nav" target="_blank" class="navbar_link w-nav-link">careers</a><a href="#" data-event-name="contact_clicked" data-event-location="nav" data-w-id="07bf5eb1-d3bc-047f-054c-3baf03a43121" class="navbar_link w-nav-link">Contact us</a></div></div><div class="navbar_menu-right"><div class="navbar_hide-tablet"><a href="/careers" data-event-name="careers_clicked" data-event-location="nav" class="navbar_link w-nav-link">Careers</a><a href="#" data-event-name="contact_sales_clicked" data-event-location="nav" data-w-id="dc97dc5e-eed7-7266-c058-8b3fba682e04" class="navbar_link w-nav-link">CONTACT SALES</a></div><a data-event-name="login_clicked" data-event-location="nav" href="https://app.withorb.com/" class="button is-small is-navbar w-button">Log in</a><a data-event-name="talk-to-orb_clicked" data-event-location="nav" data-w-id="2e686c08-7423-cd78-547f-c7fd52e9f4e5" href="#" class="button is-alternate is-navbar w-button">Talk to Orb</a></div></nav><div class="navbar_menu-button w-nav-button"><div class="menu-icon"><div class="menu-icon_line-top"></div><div class="menu-icon_line-middle"><div class="menu-icon_line-middle-inner"></div></div><div class="menu-icon_line-bottom"></div></div></div></div></div></div><div class="global-styles w-embed"><style>
+
+/* Focus state style for keyboard navigation for the focusable elements */
+*[tabindex]:focus-visible,
+  input[type="file"]:focus-visible {
+   outline: 0.125rem solid #4d65ff;
+   outline-offset: 0.125rem;
+}
+
+/* Get rid of top margin on first element in any rich text element */
+.w-richtext > :not(div):first-child, .w-richtext > div:first-child > :first-child {
+  margin-top: 0 !important;
+}
+
+/* Get rid of bottom margin on last element in any rich text element */
+.w-richtext>:last-child, .w-richtext ol li:last-child, .w-richtext ul li:last-child {
+	margin-bottom: 0 !important;
+}
+
+/* Prevent all click and hover interaction with an element */
+.pointer-events-off {
+	pointer-events: none;
+}
+
+/* Enables all click and hover interaction with an element */
+.pointer-events-on {
+  pointer-events: auto;
+}
+
+/* Create a class of .div-square which maintains a 1:1 dimension of a div */
+.div-square::after {
+	content: "";
+	display: block;
+	padding-bottom: 100%;
+}
+
+/* Make sure containers never lose their center alignment */
+.container-medium,.container-small, .container-large {
+	margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+/* 
+Make the following elements inherit typography styles from the parent and not have hardcoded values. 
+Important: You will not be able to style for example "All Links" in Designer with this CSS applied.
+Uncomment this CSS to use it in the project. Leave this message for future hand-off.
+*/
+/*
+a,
+.w-input,
+.w-select,
+.w-tab-link,
+.w-nav-link,
+.w-dropdown-btn,
+.w-dropdown-toggle,
+.w-dropdown-link {
+  color: inherit;
+  text-decoration: inherit;
+  font-size: inherit;
+}
+*/
+
+/* Apply "..." after 3 lines of text */
+.text-style-3lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+}
+
+/* Apply "..." after 2 lines of text */
+.text-style-2lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+
+/* Adds inline flex display */
+.display-inlineflex {
+  display: inline-flex;
+}
+
+/* These classes are never overwritten */
+.hide {
+  display: none !important;
+}
+
+@media screen and (max-width: 991px) {
+    .hide, .hide-tablet {
+        display: none !important;
+    }
+}
+  @media screen and (max-width: 767px) {
+    .hide-mobile-landscape{
+      display: none !important;
+    }
+}
+  @media screen and (max-width: 479px) {
+    .hide-mobile{
+      display: none !important;
+    }
+}
+ 
+.margin-0 {
+  margin: 0rem !important;
+}
+  
+.padding-0 {
+  padding: 0rem !important;
+}
+
+.spacing-clean {
+padding: 0rem !important;
+margin: 0rem !important;
+}
+
+.margin-top {
+  margin-right: 0rem !important;
+  margin-bottom: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-top {
+  padding-right: 0rem !important;
+  padding-bottom: 0rem !important;
+  padding-left: 0rem !important;
+}
+  
+.margin-right {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-right {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+.margin-bottom {
+  margin-top: 0rem !important;
+  margin-right: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-bottom {
+  padding-top: 0rem !important;
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+.margin-left {
+  margin-top: 0rem !important;
+  margin-right: 0rem !important;
+  margin-bottom: 0rem !important;
+}
+  
+.padding-left {
+  padding-top: 0rem !important;
+  padding-right: 0rem !important;
+  padding-bottom: 0rem !important;
+}
+  
+.margin-horizontal {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+}
+
+.padding-horizontal {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+}
+
+.margin-vertical {
+  margin-right: 0rem !important;
+  margin-left: 0rem !important;
+}
+  
+.padding-vertical {
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+/* Apply "..." at 100% width */
+.truncate-width { 
+		width: 100%; 
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+}
+/* Removes native scrollbar */
+.no-scrollbar {
+    -ms-overflow-style: none;
+    overflow: -moz-scrollbars-none; 
+}
+
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+
+  
+  html { font-size: 1.125rem; } 
+  @media screen and (max-width:1920px) { html { font-size: calc(0.625rem + 0.41666666666666674vw); } }
+  @media screen and (max-width:1440px) { html { font-size: calc(0.8126951092611863rem + 0.20811654526534862vw); } }
+  @media screen and (max-width:479px) { html { font-size: calc(0.7497384937238494rem + 0.41841004184100417vw); } }
+
+
+::-moz-selection { /* Code for Firefox */
+}
+
+::selection {
+
+}
+[overflow="clip"]
+ {
+ overflow-x: clip;
+ }
+ 
+ [text-wrap="balance"]
+ {
+ 	text-wrap: balance;
+ }
+
+blockquote::before {
+    content: "“";
+    position: absolute;
+    left: 2.75rem;
+    top: 2.5rem;
+    width: 100%; /* Adjust based on the actual width of your image */
+    height:2rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+
+@media only screen and (max-width: 767px) {
+    blockquote::before {
+			height:1.5rem;
+      left: 2.9rem;
+    
+  }
+}
+
+
+
+
+blockquote > sub,
+blockquote > a > sub {
+	font-size:.875rem;
+  line-height: 125% !important;
+  text-transform: uppercase;
+  color: #062F70;
+}
+
+blockquote > br {
+	margin-bottom: 0 rem !important;
+}
+
+
+</style></div><div class="main-wrapper"><header class="section_404"><div class="padding-global"><div class="container-large"><div class="text-align-center"><h1 class="_404_heading"><span class="_404_heading-top">404</span> <br/>Page not found</h1><div class="spacer-small"></div><div class="max-width-medium align-center"><div class="text-align-left"><p class="text-size-large">This page is not reporting, but don&#x27;t worry, your billing still is. <a href="/">Go back</a> or contact us for help.</p><div class="spacer-small"></div><div class="text-align-center"><a data-w-id="b0601664-10d9-cda4-0b83-7158e424297f" href="#" class="button w-button">Get in Touch</a></div></div></div></div></div></div><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/64dd3e4bc42946850779b34d_Line%20Graphic.svg" loading="lazy" alt="" class="home-hero_bg-decoration-wrapper pointer-events-off"/></header></div><div class="footer_parent"><footer class="footer_component"><div class="padding-global"><div class="container-large"><div class="padding-bottom padding-small"><div class="w-layout-grid footer_top-wrapper"><div id="w-node-_78521f26-fa86-5c19-819e-eacaee0f308c-ee0f3086" class="footer_link-list"><div class="footer_column-heading">Company</div><div class="spacer-xxsmall"></div><a data-event-location="footer" data-event-name="about_clicked" href="/about" class="footer_link">About us</a><a data-event-location="footer" data-event-name="careers_clicked" href="/careers" class="footer_link">Careers</a><a data-event-name="security_clicked" data-event-location="footer" href="/security" class="footer_link">Security</a><a data-event-name="status_clicked" data-event-location="footer" href="https://status.withorb.com/" target="_blank" class="footer_link">Status</a><a data-event-location="footer" data-event-name="press_clicked" href="/press" class="footer_link">Press</a><a data-event-location="footer" data-event-name="contact_clicked" href="/schedule-a-demo" class="footer_link">Contact us</a></div><div id="w-node-_78521f26-fa86-5c19-819e-eacaee0f309a-ee0f3086" class="footer_link-list"><div class="footer_column-heading">Resources</div><div class="spacer-xxsmall"></div><a data-event-location="footer" data-event-name="doc_clicked" href="https://docs.withorb.com/" target="_blank" class="footer_link">Docs</a><a data-event-location="footer" data-event-name="support_clicked" href="https://support.withorb.com/" target="_blank" class="footer_link">Support</a><a data-event-location="footer" data-event-name="pricing_clicked" href="/pricing" class="footer_link">Pricing</a><a data-event-name="blog_clicked" data-event-location="footer" href="/blog" class="footer_link">Blog</a><a data-event-name="case_studies_clicked" data-event-location="footer" href="/case-studies" class="footer_link">Case studies</a><a data-event-name="changelog_clicked" data-event-location="footer" href="https://changelog.withorb.com/" target="_blank" class="footer_link">Changelog</a></div><div id="w-node-_78521f26-fa86-5c19-819e-eacaee0f30a6-ee0f3086" class="footer_link-list"><div class="footer_column-heading">Try Orb</div><div class="spacer-xxsmall"></div><a data-event-location="footer" data-event-name="contact_sales_clicked" data-w-id="78521f26-fa86-5c19-819e-eacaee0f30ac" href="#" class="footer_link">Contact sales</a><a data-event-location="footer" data-event-name="explore_demo_clicked" href="https://demo.withorb.com?vertical=cloud_infra" target="_blank" class="footer_link">Explore demo</a></div><div id="w-node-_78521f26-fa86-5c19-819e-eacaee0f30ae-ee0f3086" class="footer_link-list"><div class="footer_column-heading">Updates</div><div class="spacer-xsmall"></div><div class="footer_social-link-layout"><a data-event-location="footer" title="linkedin" data-event-name="linkedin_clicked" href="https://www.linkedin.com/company/orbhq/" target="_blank" class="footer_social-link w-inline-block"><div class="icon-embed-xsmall w-embed"><svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4.5 3C3.67157 3 3 3.67157 3 4.5V19.5C3 20.3284 3.67157 21 4.5 21H19.5C20.3284 21 21 20.3284 21 19.5V4.5C21 3.67157 20.3284 3 19.5 3H4.5ZM8.52076 7.00272C8.52639 7.95897 7.81061 8.54819 6.96123 8.54397C6.16107 8.53975 5.46357 7.90272 5.46779 7.00413C5.47201 6.15897 6.13998 5.47975 7.00764 5.49944C7.88795 5.51913 8.52639 6.1646 8.52076 7.00272ZM12.2797 9.76176H9.75971H9.7583V18.3216H12.4217V18.1219C12.4217 17.742 12.4214 17.362 12.4211 16.9819V16.9818V16.9816V16.9815V16.9812C12.4203 15.9674 12.4194 14.9532 12.4246 13.9397C12.426 13.6936 12.4372 13.4377 12.5005 13.2028C12.7381 12.3253 13.5271 11.7586 14.4074 11.8979C14.9727 11.9864 15.3467 12.3141 15.5042 12.8471C15.6013 13.1803 15.6449 13.5389 15.6491 13.8863C15.6605 14.9339 15.6589 15.9815 15.6573 17.0292V17.0294C15.6567 17.3992 15.6561 17.769 15.6561 18.1388V18.3202H18.328V18.1149C18.328 17.6629 18.3278 17.211 18.3275 16.7591V16.759V16.7588C18.327 15.6293 18.3264 14.5001 18.3294 13.3702C18.3308 12.8597 18.276 12.3563 18.1508 11.8627C17.9638 11.1286 17.5771 10.5211 16.9485 10.0824C16.5027 9.77019 16.0133 9.5691 15.4663 9.5466C15.404 9.54401 15.3412 9.54062 15.2781 9.53721L15.2781 9.53721L15.2781 9.53721C14.9984 9.52209 14.7141 9.50673 14.4467 9.56066C13.6817 9.71394 13.0096 10.0641 12.5019 10.6814C12.4429 10.7522 12.3852 10.8241 12.2991 10.9314L12.2991 10.9315L12.2797 10.9557V9.76176ZM5.68164 18.3244H8.33242V9.76733H5.68164V18.3244Z" fill="CurrentColor"/>
+</svg></div></a><a data-event-location="footer" title="x" data-event-name="twitter_clicked" href="https://twitter.com/useorb" target="_blank" class="footer_social-link w-inline-block"><div class="icon-embed-xsmall w-embed"><svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M17.1761 4H19.9362L13.9061 10.7774L21 20H15.4456L11.0951 14.4066L6.11723 20H3.35544L9.80517 12.7508L3 4H8.69545L12.6279 9.11262L17.1761 4ZM16.2073 18.3754H17.7368L7.86441 5.53928H6.2232L16.2073 18.3754Z" fill="CurrentColor"/>
+</svg></div></a><a data-event-location="footer" title="youtube" data-event-name="youtube_clicked" href="https://www.youtube.com/channel/UCuKymyFL3HwsKjvPKGIwmlA" target="_blank" class="footer_social-link w-inline-block"><div class="icon-embed-xsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--bx" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M21.593 7.203a2.506 2.506 0 0 0-1.762-1.766C18.265 5.007 12 5 12 5s-6.264-.007-7.831.404a2.56 2.56 0 0 0-1.766 1.778c-.413 1.566-.417 4.814-.417 4.814s-.004 3.264.406 4.814c.23.857.905 1.534 1.763 1.765c1.582.43 7.83.437 7.83.437s6.265.007 7.831-.403a2.515 2.515 0 0 0 1.767-1.763c.414-1.565.417-4.812.417-4.812s.02-3.265-.407-4.831zM9.996 15.005l.005-6l5.207 3.005l-5.212 2.995z" fill="currentColor"></path></svg></div></a></div></div></div></div><div class="padding-top padding-medium"><div class="footer_bottom-wrapper"><div class="footer_bottom-left-wrapper"><a data-event-location="footer" data-event-name="logo_clicked" href="/" class="footer_logo-link w-inline-block"><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/64d69fd221c91c565a5f7600_Group%2067.svg" loading="lazy" width="114" height="47" alt="orb logo" class="footer_logo-image"/></a><div class="w-layout-grid footer_legal-list"><div id="w-node-_78521f26-fa86-5c19-819e-eacaee0f30cf-ee0f3086" class="footer_credit-text">© Orb, Inc. All rights reserved.</div><a data-event-location="footer" data-event-name="terms_clicked" href="/terms" class="footer_legal-link">Terms of Service</a><a data-event-location="footer" data-event-name="terms_clicked" href="/website-terms-of-use" class="footer_legal-link">Website Terms of Use</a><a data-event-location="footer" data-event-name="privacy_clicked" href="/privacy-policy" class="footer_legal-link">Privacy Policy</a></div></div><a data-event-location="footer" data-event-name="soc2_clicked" href="/security" class="footer_logo-link w-inline-block"><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/64e014539b17ebd169ce109f_image%201%402x.webp" loading="lazy" width="103" height="102" alt="soc2 badge" class="footer_soc-image"/></a></div></div><div class="footer_bg-decoration-wrapper"><div class="footer_linework-decoration-wrapper"><img src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/64e0152c0d4d27bf8eeec408_Linework%204.svg" loading="lazy" alt="" class="footer_linework-decoration"/></div></div></div></div><div class="footer_grey-bg"></div></footer></div><section class="section_contact-modal"><div fs-scrolldisable-element="when-visible" class="contact-modal_component"><div class="contact-modal_content-wrapper"><div class="contact-modal_heading-wrapper"><a data-w-id="db9c7128-f102-9ede-0766-4025dcf76280" href="#" class="contact-modal_close-button w-inline-block"><div class="icon-embed-small hide-mobile-landscape w-embed"><svg width="100%" height="100%" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M24.056 23.5004L23.5004 24.056C23.1935 24.3628 22.696 24.3628 22.3892 24.056L16 17.6668L9.61078 24.056C9.30394 24.3628 8.80645 24.3628 8.49961 24.056L7.94403 23.5004C7.63719 23.1936 7.63719 22.6961 7.94403 22.3892L14.3332 16L7.94403 9.61081C7.63719 9.30397 7.63719 8.80648 7.94403 8.49964L8.49961 7.94406C8.80645 7.63721 9.30394 7.63721 9.61078 7.94406L16 14.3333L22.3892 7.94404C22.6961 7.6372 23.1935 7.6372 23.5004 7.94404L24.056 8.49963C24.3628 8.80647 24.3628 9.30395 24.056 9.61079L17.6667 16L24.056 22.3892C24.3628 22.6961 24.3628 23.1936 24.056 23.5004Z" fill="currentColor"/>
+</svg></div><img loading="lazy" src="https://cdn.prod.website-files.com/624380709031623bfe4aee60/624380709031623afe4aee7e_icon_close-modal.svg" alt="" class="show-mobile-landscape"/></a><div class="text-color-dark-blue"><h2 class="heading-style-h3">Let&#x27;s talk.</h2></div></div><div class="contact-modal_form-block"><form action="https://links.withorb.com/l/1095882/2025-04-07/344p7c" method="POST" name="contact-us" class="contact-modal_form"><div class="form-field-2col"><div class="form-field-wrapper"><label class="field-label">First name</label><input autocomplete="given-name" name="first-name" required="" class="form-input"/></div><div class="form-field-wrapper"><label class="field-label">Last name</label><input autocomplete="family-name" name="last-name" required="" class="form-input"/></div></div><div class="form-field-wrapper"><label class="field-label">Work email</label><input autocomplete="email" name="email" required="" type="email" class="form-input"/><div id="email-error-message" class="form-error-label">Please enter a valid work email</div></div><div class="form-field-2col"><div class="form-field-wrapper"><label class="field-label">Company type</label><select name="company-type" required="" class="form-input"><option selected=""></option><option value="GenAI">GenAI</option><option value="SaaS">SaaS</option><option value="Other">Other</option></select></div><div class="form-field-wrapper"><label class="field-label">Number of employees</label><select name="company-size" required="" class="form-input"><option value="" selected=""></option><option value="1-10">1-10</option><option value="11-50">11-50</option><option value="51-200">51-200</option><option value="201-500">201-500</option><option value="501-1000">501-1000</option><option value="1001-5000">1001-5000</option><option value="5000+">5000+</option></select><div id="number-of-employees-error-message" class="form-error-label">Please select a range of employees</div></div></div><div class="form-field-wrapper"><label class="field-label">How can we help? (optional)</label><textarea name="message" autocomplete="off" class="form-input is-text-area"></textarea></div><div class="form-field-wrapper is-hidden"><input placeholder="utm_source" fs-queryparam-name="utm_source" name="utm_source" class="form-input"/><input placeholder="utm_medium" fs-queryparam-name="utm_medium" name="utm_medium" class="form-input"/><input placeholder="utm_campaign" fs-queryparam-name="utm_campaign" name="utm_campaign" class="form-input"/><input placeholder="utm_content" fs-queryparam-name="utm_content" name="utm_content" class="form-input"/><input placeholder="utm_term" fs-queryparam-name="utm_term" name="utm_term" class="form-input"/><input placeholder="page-url" name="page-url" data-input="url" class="form-input"/><input name="source" class="form-input" value="Organic Search"/></div><div class="text-size-xsmall">By submitting this form, I agree to Orb&#x27;s <a href="/website-terms-of-use">Website Terms of Use</a> and <a href="/privacy-policy">Privacy Policy</a>. I understand that Orb may use my information to send me product news and marketing communications. I can unsubscribe at any time through the unsubscribe link in any message or by contacting Orb directly.</div><button id="w-node-_513e3ebc-aa85-2da4-bb05-3c0e9d673f61-9d673f24" type="submit" data-event-name="contact_sales_submit" data-event-location="contact_sales_form" class="button is-small">Submit</button></form></div></div><div data-w-id="d081cfc7-7731-fc21-dee3-8fab2e6cfe52" class="contact-modal_background-overlay"></div></div></section></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=64d69beadfe5074323543ebd" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/js/orb-2023-revamp.schunk.4a394eb5af8156f2.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/js/orb-2023-revamp.schunk.62e0584b198cc004.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/js/orb-2023-revamp.4de640ed.11d425ff8f818793.js" type="text/javascript"></script><!-- Inifintely looping logo strip -->
+<script>
+  // Get all elements with autoscroll attribute
+  const autoscrollDivs = document.querySelectorAll('[autoscroll=true]');
+
+  // Loop through each autoscroll div
+  autoscrollDivs.forEach((div) => {
+      // Get the first child element of the autoscroll div
+      const child = div.firstElementChild;
+
+      // Clone the child element
+      const clonedChild = child.cloneNode(true);
+
+      // Append the cloned child element as a sibling to the original child element
+      child.parentNode.insertBefore(clonedChild, child.nextSibling);
+  });
+
+</script>
+
+<!-- Floating Form Labels -->
+<script>
+$(document).ready(function() {
+  // Function to check and update input states
+  function checkInputStates() {
+    $('.form-input').each(function() {
+      if ($(this).val() !== '') {
+        $(this).siblings('.field-label').addClass('float active-label');
+      }
+    });
+  }
+
+  // Check immediately
+  checkInputStates();
+
+  // Check again after a short delay to catch browser autofill
+  setTimeout(checkInputStates, 100);
+
+  // Also check on window load to be extra safe
+  $(window).on('load', checkInputStates);
+
+  // Existing focus handler
+  $('.form-input').focus(function() {
+    $(this).siblings('.field-label').addClass('float active-label');
+  });
+
+  // Existing blur handler
+  $('.form-input').blur(function() {
+    var inputVal = $(this).val();
+    var label = $(this).siblings('.field-label');
+    label.removeClass('active-label');
+    if (!inputVal) {
+      label.removeClass('float');
+    }
+  });
+});
+</script>
+
+<!-- event triggers -->
+<script type="text/javascript">
+const trackEvent = (e, eventName, defaultAction) => {
+  if (eventName !== undefined && eventName !== null && eventName !== '') {
+    gtag("event", eventName, {
+      event_category: e.attr("data-event-category") || "website_leads",
+      event_location: e.attr("data-event-location"),
+      event_action: e.attr("data-event-action") || defaultAction,
+      value: e.attr("data-event-value"),
+    });
+    
+    !!ko && ko.track(eventName, {
+      action: e.attr("data-event-action") || defaultAction,
+      location: e.attr("data-event-location")
+    });
+  }
+};
+
+// Attach an onClick listener to any element with the data-event-name custom property
+$("[data-event-name]").click(function() {
+  trackEvent($(this), $(this).attr("data-event-name"), "click");
+});
+
+// Track submissions of any form element
+$("form").submit(function() {
+  trackEvent($(this), $(this).attr("data-form-submission-event-name"), "submit");
+});
+</script>
+
+<!-- Pass email from demo form to twitter event on form submit  -->
+<script type="text/javascript">
+// Check if the form exists on the page
+const contactForm = document.querySelector('#wf-form-Contact-Modal-Form');
+
+if (contactForm) {
+  contactForm.addEventListener('submit', function() {
+    // Insert Twitter Event ID
+    twq('event', 'tw-oeq0y-oeq2d', {
+      email_address: document.querySelector('.contact-email').value
+    });
+  });
+}
+</script>
+
+<!-- LinkedIn -->
+<script type="text/javascript">
+_linkedin_partner_id = "5010028";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=5010028&fmt=gif" />
+</noscript>
+
+<!-- LinkedIn event tracking code for sales form submit button -->
+<script>
+// Check if the button exists on the page
+const salesSubmitButton = document.getElementById('sales-submit');
+
+if (salesSubmitButton) {
+  salesSubmitButton.addEventListener('click', function() {
+    window.lintrk('track', { conversion_id: 13086196 });
+    console.log('LinkedIn Event: sales-submit');
+  });
+}
+</script>
+
+<!-- add page URL to hidden field in modal -->
+<script>
+// Get the URL location
+var url = window.location.href;
+var ctaLabel; // Declare the ctaLabel variable without the const keyword
+var urlElements = document.querySelectorAll('[data-input="url"]');
+
+const buttons = document.querySelectorAll('[data-event-name]'); // Use the attribute selector to select elements with the data-event-name attribute
+// Add click event listeners to the buttons
+buttons.forEach(button => {
+  button.addEventListener('click', function() {
+    // Get the value of the "data-event-name" attribute
+    const eventName = button.getAttribute('data-event-name');
+    
+    // Update the ctaLabel variable with the clicked button's event name
+    ctaLabel = eventName;
+
+    // Update the value of the form field
+    document.querySelectorAll('.cta-label').forEach((elt) => { elt.value = ctaLabel; })
+  });
+});
+
+// Add URL to the form field
+urlElements.forEach(function(element) {
+  element.value = url;
+});
+</script>
+
+<!-- Hiring easter egg -->
+<script>
+console.log(`%c
+o-o      o    
+o   o     |    
+|   | o-o O-o  
+o   o |   |  | 
+o-o  o   o-o  
+
+We're hiring! withorb.com/careers
+
+`, "font-family: monospace");
+</script>
+
+<!-- block email submissions that end with personal domain names -->
+<script type="text/javascript">
+$(document).ready(function(e) {
+// List of disallowed domains
+const disallowedDomains = [
+  '126.com', '163.com', '21cn.com', 'alice.it', 'aliyun.com', 'aol.com', 'aol.it', 
+  'arnet.com.ar', 'att.net', 'bell.net', 'bellsouth.net', 'bk.ru', 'blueyonder.co.uk', 
+  'bol.com.br', 'bt.com', 'btinternet.com', 'charter.net', 'comcast.net', 'cox.net', 
+  'daum.net', 'earthlink.net', 'email.com', 'email.it', 'facebook.com', 'fastmail.fm', 
+  'fibertel.com.ar', 'foxmail.com', 'free.fr', 'games.com', 'globo.com', 'globomail.com', 
+  'gmail.com', 'gmx.com', 'gmx.de', 'gmx.fr', 'gmx.net', 'googlemail.com', 'hanmail.net', 
+  'hotmail.be', 'hotmail.ca', 'hotmail.co.uk', 'hotmail.com', 'hotmail.com.ar', 
+  'hotmail.com.br', 'hotmail.com.mx', 'hotmail.de', 'hotmail.es', 'hotmail.fr', 'hotmail.it', 
+  'hush.com', 'hushmail.com', 'icloud.com', 'ig.com.br', 'iname.com', 'inbox.com', 'inbox.ru', 
+  'juno.com', 'keemail.me', 'laposte.net', 'lavabit.com', 'libero.it', 'list.ru', 'live.be', 
+  'live.co.uk', 'live.com', 'live.com.ar', 'live.com.mx', 'live.de', 'live.fr', 'live.it', 
+  'love.com', 'mac.com', 'mail.com', 'mail.ru', 'me.com', 'msn.com', 'nate.com', 'naver.com', 
+  'neuf.fr', 'ntlworld.com', 'oi.com.br', 'online.de', 'orange.fr', 'orange.net', 'outlook.com', 
+  'outlook.com.br', 'pobox.com', 'poste.it', 'prodigy.net.mx', 'protonmail.ch', 'protonmail.com', 
+  'qq.com', 'r7.com', 'rambler.ru', 'rocketmail.com', 'rogers.com', 'safe-mail.net', 
+  'sbcglobal.net', 'sfr.fr', 'shaw.ca', 'sina.cn', 'sina.com', 'sky.com', 'skynet.be', 
+  'speedy.com.ar', 'sympatico.ca', 't-online.de', 'talktalk.co.uk', 'telenet.be', 'teletu.it', 
+  'terra.com.br', 'tin.it', 'tiscali.co.uk', 'tiscali.it', 'tuta.io', 'tutamail.com', 
+  'tutanota.com', 'tutanota.de', 'tvcablenet.be', 'uol.com.br', 'verizon.net', 'virgilio.it', 
+  'virgin.net', 'virginmedia.com', 'voo.be', 'wanadoo.fr', 'web.de', 'wow.com', 'ya.ru', 
+  'yahoo.ca', 'yahoo.co.id', 'yahoo.co.in', 'yahoo.co.jp', 'yahoo.co.kr', 'yahoo.co.uk', 
+  'yahoo.com', 'yahoo.com.ar', 'yahoo.com.br', 'yahoo.com.mx', 'yahoo.com.ph', 'yahoo.com.sg', 
+  'yahoo.de', 'yahoo.fr', 'yahoo.it', 'yandex.by', 'yandex.com', 'yandex.kz', 'yandex.ru', 
+  'yandex.ua', 'yeah.net', 'ygm.com', 'ymail.com', 'zipmail.com.br', 'zoho.com'
+];
+
+// Construct the regex pattern
+const emailRegex = new RegExp(
+  '^' +
+  '([\\w.-]+@' +
+  `(?!(?:${disallowedDomains.join('|')}|.*\\.edu))` + // blocks .edu here
+  '[\\w-]+\\.)+' +
+  '[\\w-]{2,4}' +
+  '$',
+  'i' // Case-insensitive flag
+);
+
+// Function to validate email
+function validateEmail(email) {
+  return emailRegex.test(email);
+}
+
+// Function to show error
+function showError($element) {
+  $element.addClass('is-invalid');
+  $element.siblings('.form-error-label').addClass('is-active');
+  document.querySelectorAll('.business-email').forEach((elt) => { elt.checked = false; })
+}
+
+// Function to hide error
+function hideError($element) {
+  $element.removeClass('is-invalid');
+  $element.siblings('.form-error-label').removeClass('is-active');
+  document.querySelectorAll('.business-email').forEach((elt) => { elt.checked = true; })
+}
+
+// Add event listener when the focus of the email field is changed
+$('input[type="email"]').on('focusout', function() {
+  var email = $(this).val();
+  var gmailAllowed = $(this).attr('gmail') === 'allowed';
+
+  if (!email) {
+    // Show error if the field is empty
+    showError($(this));
+  } else if (!gmailAllowed && !validateEmail(email)) {
+    // Log an event for analytics
+    gtag("event", "trial_signup_personal_email_validation_error", {
+      event_category: "website_leads",
+      event_location: "trial_form",
+      event_action: "focusout"
+    });
+    !!ko && ko.track("trial_signup_personal_email_validation_error");
+    
+    // Show error
+    showError($(this));
+  } else {
+    // Hide error if email is valid or gmail is allowed
+    hideError($(this));
+  }
+});
+
+// Remove error classes as soon as the user starts typing
+$('input[type="email"]').on('input', function() {
+  hideError($(this));
+});
+
+// Remove error classes when the field gains focus
+$('input[type="email"]').on('focusin', function() {
+  hideError($(this));
+});
+});
+</script>
+
+
+
+<!-- dynamically change Favicon color based on browser theme -->
+<script>
+const lightFaviconUrl = 'https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6734e41b3fb9b25a198a0cca_Union.png';
+const darkFaviconUrl = 'https://cdn.prod.website-files.com/64d69beadfe5074323543ebd/6734e4fd9d5ab3e0359ac223_favicon%20dark%20mode.png';
+
+function setFavicon() {
+const favicon = document.querySelector('link[rel="icon"]');
+if (!favicon) {
+  const newFavicon = document.createElement('link');
+  newFavicon.rel = 'icon';
+  document.head.appendChild(newFavicon);
+}
+
+const isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+const faviconUrl = isDarkMode ? darkFaviconUrl : lightFaviconUrl;
+
+document.querySelector('link[rel="icon"]').href = faviconUrl;
+}
+
+// Set favicon initially
+setFavicon();
+
+// Listen for changes in color scheme preference
+window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setFavicon);
+
+</script>
+
+
+<!-- Pass UTM paramaters through if user navigates multiple pages -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Get the current URL's query parameters (UTM values)
+  const queryParams = window.location.search;
+
+  // Find all links on the page and append the UTM parameters to them
+  const links = document.querySelectorAll('a:not([href="#"])');
+
+  links.forEach(function(link) {
+    if (link.href.includes('?')) {
+      // If the link already has query parameters, just append the UTM params
+      link.href += '&' + queryParams.substring(1);
+    } else {
+      // If the link has no query parameters, add the UTM params
+      link.href += queryParams;
+    }
+  });
+});
+</script></body></html>

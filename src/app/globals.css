@@ -1,0 +1,406 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'DM Mono';
+  src: url('https://ext.same-assets.com/1462919619/420417916.woff2') format('woff2'),
+       url('https://ext.same-assets.com/1462919619/3783497876.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('https://ext.same-assets.com/1462919619/678990770.bin') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('https://ext.same-assets.com/1462919619/1800346076.bin') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Relative';
+  src: url('https://ext.same-assets.com/1462919619/3749883569.bin') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  :root {
+    /* Base colors */
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    /* Primary blue */
+    --primary: 221 70% 40%; /* Adjusted to match orbBlue-600 */
+    --primary-foreground: 210 40% 98%;
+
+    /* Secondary colors */
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+
+    /* UI colors */
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    /* Border and input */
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 221 70% 40%;
+
+    /* Radius */
+    --radius: 0.5rem;
+
+    /* Chart colors */
+    --chart-1: 12 76% 61%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+
+    /* Shadows */
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+
+    /* Spacing */
+    --spacing-1: 0.25rem;
+    --spacing-2: 0.5rem;
+    --spacing-3: 0.75rem;
+    --spacing-4: 1rem;
+    --spacing-6: 1.5rem;
+    --spacing-8: 2rem;
+    --spacing-12: 3rem;
+    --spacing-16: 4rem;
+    --spacing-24: 6rem;
+  }
+
+  .dark {
+    /* Base colors */
+    --background: 222 18% 12%;
+    --foreground: 210 40% 98%;
+    --card: 222 16% 16%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222 16% 16%;
+    --popover-foreground: 210 40% 98%;
+
+    /* Primary blue */
+    --primary: 221 70% 55%;
+    --primary-foreground: 210 40% 98%;
+
+    /* Secondary colors */
+    --secondary: 217 19% 27%;
+    --secondary-foreground: 210 40% 98%;
+
+    /* UI colors */
+    --muted: 217 19% 27%;
+    --muted-foreground: 215 20% 65%;
+    --accent: 217 19% 27%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 210 40% 98%;
+
+    /* Border and input */
+    --border: 217 19% 27%;
+    --input: 217 19% 27%;
+    --ring: 224 76% 48%;
+
+    /* Chart colors */
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+
+    /* Shadows for dark mode */
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.25);
+    --shadow: 0 1px 3px 0 rgb(0 0 0 / 0.3), 0 1px 2px -1px rgb(0 0 0 / 0.3);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.3), 0 2px 4px -2px rgb(0 0 0 / 0.3);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.3), 0 4px 6px -4px rgb(0 0 0 / 0.3);
+    --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.3), 0 8px 10px -6px rgb(0 0 0 / 0.3);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-white text-foreground font-inter text-base leading-relaxed antialiased dark:bg-orbGray-900;
+  }
+
+  /* Enhanced typography system */
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-relative font-medium tracking-tight;
+  }
+
+  h1 {
+    @apply text-4xl md:text-5xl lg:text-6xl leading-tight mb-6;
+  }
+
+  h2 {
+    @apply text-3xl md:text-4xl leading-tight mb-4;
+  }
+
+  h3 {
+    @apply text-2xl md:text-3xl leading-snug mb-3;
+  }
+
+  h4 {
+    @apply text-xl font-semibold mb-2;
+  }
+
+  h5 {
+    @apply text-lg font-semibold mb-2;
+  }
+
+  h6 {
+    @apply text-base font-semibold mb-2;
+  }
+
+  p {
+    @apply mb-4 leading-relaxed;
+  }
+
+  a {
+    @apply text-orbBlue-600 hover:text-orbBlue-700 transition-colors duration-200;
+  }
+
+  .font-mono {
+    @apply font-dm-mono text-sm leading-normal;
+  }
+
+  /* Text sizes with line heights */
+  .text-size-xs {
+    font-size: 0.75rem;
+    line-height: 1.5;
+  }
+
+  .text-size-sm {
+    font-size: 0.875rem;
+    line-height: 1.5;
+  }
+
+  .text-size-base {
+    font-size: 1rem;
+    line-height: 1.625;
+  }
+
+  .text-size-lg {
+    font-size: 1.125rem;
+    line-height: 1.625;
+  }
+
+  .text-size-xl {
+    font-size: 1.25rem;
+    line-height: 1.625;
+  }
+
+  .text-size-2xl {
+    font-size: 1.5rem;
+    line-height: 1.375;
+  }
+
+  .text-size-3xl {
+    font-size: 1.875rem;
+    line-height: 1.375;
+  }
+
+  .text-size-4xl {
+    font-size: 2.25rem;
+    line-height: 1.25;
+  }
+}
+
+@layer components {
+  /* Enhanced gradients */
+  .orb-gradient-blue {
+    background: linear-gradient(135deg, #1c54b0 0%, #50b6da 100%);
+  }
+
+  .orb-gradient-blue-subtle {
+    background: linear-gradient(135deg, #3a66f0 0%, #7dd9fc 100%);
+  }
+
+  .orb-gradient-green {
+    background: linear-gradient(135deg, #a0c00c 0%, #d2f427 100%);
+  }
+
+  .orb-gradient-sphere {
+    background: radial-gradient(ellipse at center, rgba(80, 182, 218, 0.2) 0%, rgba(28, 84, 176, 0.1) 70%, rgba(255, 255, 255, 0) 100%);
+  }
+
+  .orb-gradient-sphere-enhanced {
+    background: radial-gradient(ellipse at center, rgba(80, 182, 218, 0.25) 0%, rgba(28, 84, 176, 0.15) 60%, rgba(255, 255, 255, 0) 100%);
+    backdrop-filter: blur(8px);
+  }
+
+  /* Enhanced buttons */
+  .orb-button-primary {
+    @apply bg-orbBlue-600 text-white px-6 py-3 rounded-full font-semibold hover:bg-orbBlue-700 transition-all duration-200 shadow-sm hover:shadow dark:bg-orbBlue-700 dark:hover:bg-orbBlue-800;
+  }
+
+  .orb-button-secondary {
+    @apply bg-white text-orbBlue-600 border border-orbBlue-600 px-6 py-3 rounded-full font-semibold hover:bg-gray-50 hover:text-orbBlue-700 hover:border-orbBlue-700 transition-all duration-200 dark:bg-orbGray-800 dark:text-orbBlue-400 dark:border-orbBlue-500 dark:hover:bg-orbGray-700 dark:hover:text-orbBlue-300;
+  }
+
+  .orb-button-green {
+    @apply bg-orbGreen-300 text-black px-6 py-3 rounded-full font-semibold hover:bg-orbGreen-400 transition-all duration-200 shadow-sm hover:shadow dark:bg-orbGreen-700 dark:text-white dark:hover:bg-orbGreen-600;
+  }
+
+  .orb-button-sm {
+    @apply px-4 py-2 text-sm;
+  }
+
+  .orb-button-lg {
+    @apply px-8 py-4 text-lg;
+  }
+
+  /* Navigation */
+  .orb-nav-link {
+    @apply text-orbGray-600 hover:text-orbBlue-600 transition-colors duration-200 font-medium dark:text-orbGray-300 dark:hover:text-white;
+  }
+
+  .orb-nav-link-active {
+    @apply text-orbBlue-600 font-semibold dark:text-orbBlue-400;
+  }
+
+  /* Layout */
+  .orb-section {
+    @apply py-16 md:py-24;
+  }
+
+  .orb-section-sm {
+    @apply py-8 md:py-12;
+  }
+
+  .orb-section-lg {
+    @apply py-24 md:py-32;
+  }
+
+  .orb-container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  /* Cards */
+  .orb-card {
+    @apply bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow duration-200 overflow-hidden dark:bg-orbGray-800 dark:shadow-orbGray-900/30;
+  }
+
+  .orb-card-bordered {
+    @apply bg-white rounded-xl border border-orbGray-200 hover:border-orbGray-300 transition-colors duration-200 overflow-hidden dark:bg-orbGray-800 dark:border-orbGray-700 dark:hover:border-orbGray-600;
+  }
+
+  /* Shadows */
+  .orb-shadow-sm {
+    box-shadow: var(--shadow-sm);
+  }
+
+  .orb-shadow {
+    box-shadow: var(--shadow);
+  }
+
+  .orb-shadow-md {
+    box-shadow: var(--shadow-md);
+  }
+
+  .orb-shadow-lg {
+    box-shadow: var(--shadow-lg);
+  }
+
+  .orb-shadow-xl {
+    box-shadow: var(--shadow-xl);
+  }
+}
+
+@layer utilities {
+  /* Text utilities */
+  .text-gradient {
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .text-gradient-blue {
+    background-image: linear-gradient(135deg, #1c54b0 0%, #50b6da 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .text-gradient-green {
+    background-image: linear-gradient(135deg, #a0c00c 0%, #d2f427 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  /* Spacing utilities */
+  .space-y-xs > * + * {
+    margin-top: 0.25rem;
+  }
+
+  .space-y-sm > * + * {
+    margin-top: 0.5rem;
+  }
+
+  .space-y-md > * + * {
+    margin-top: 1rem;
+  }
+
+  .space-y-lg > * + * {
+    margin-top: 2rem;
+  }
+
+  .space-y-xl > * + * {
+    margin-top: 4rem;
+  }
+
+  /* Animation utilities */
+  .transition-fast {
+    transition-duration: 150ms;
+  }
+
+  .transition-medium {
+    transition-duration: 300ms;
+  }
+
+  .transition-slow {
+    transition-duration: 500ms;
+  }
+
+  /* Focus styles */
+  .focus-ring {
+    @apply focus:outline-none focus-visible:ring-2 focus-visible:ring-orbBlue-600 focus-visible:ring-offset-2;
+  }
+
+  /* Hover effects */
+  .hover-lift {
+    @apply transition-transform duration-200 hover:-translate-y-1;
+  }
+
+  .hover-scale {
+    @apply transition-transform duration-200 hover:scale-105;
+  }
+}
