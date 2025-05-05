@@ -34,8 +34,9 @@ export function EnhancedHero() {
       color: string;
 
       constructor() {
-        this.x = Math.random() * canvas.width;
-        this.y = Math.random() * canvas.height;
+        // Canvas is guaranteed to be non-null here because of the early return above
+        this.x = Math.random() * (canvas?.width ?? 1000);
+        this.y = Math.random() * (canvas?.height ?? 800);
         this.size = Math.random() * 5 + 1;
         this.speedX = Math.random() * 1 - 0.5;
         this.speedY = Math.random() * 1 - 0.5;
@@ -54,11 +55,14 @@ export function EnhancedHero() {
         this.x += this.speedX;
         this.y += this.speedY;
 
-        if (this.x > canvas.width) this.x = 0;
-        else if (this.x < 0) this.x = canvas.width;
+        const width = canvas?.width ?? 1000;
+        const height = canvas?.height ?? 800;
 
-        if (this.y > canvas.height) this.y = 0;
-        else if (this.y < 0) this.y = canvas.height;
+        if (this.x > width) this.x = 0;
+        else if (this.x < 0) this.x = width;
+
+        if (this.y > height) this.y = 0;
+        else if (this.y < 0) this.y = height;
       }
 
       draw() {
@@ -72,7 +76,9 @@ export function EnhancedHero() {
 
     // Create particles
     const particlesArray: Particle[] = [];
-    const numberOfParticles = Math.min(50, Math.floor(canvas.width * canvas.height / 15000));
+    const width = canvas.width;
+    const height = canvas.height;
+    const numberOfParticles = Math.min(50, Math.floor(width * height / 15000));
 
     for (let i = 0; i < numberOfParticles; i++) {
       particlesArray.push(new Particle());
@@ -81,7 +87,7 @@ export function EnhancedHero() {
     // Animation loop
     const animate = () => {
       if (!ctx) return;
-      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.clearRect(0, 0, width, height);
 
       for (let i = 0; i < particlesArray.length; i++) {
         particlesArray[i].update();
