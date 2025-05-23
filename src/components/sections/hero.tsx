@@ -59,7 +59,8 @@ export function Hero() {
             viewport={{ once: true }}
           >
             <p className="text-lg md:text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-              Orb is a usage-based subscription management platform that enables flexible pricing, seamless billing, and faster growth.
+              Orb is a usage-based subscription management platform that enables
+              flexible pricing, seamless billing, and faster growth.
             </p>
           </motion.div>
 
@@ -70,12 +71,18 @@ export function Hero() {
             viewport={{ once: true }}
           >
             <div className="flex flex-col sm:flex-row justify-center gap-4 mb-16">
-              <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
+              <motion.div
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+              >
                 <OrbButton variant="primary" href="/">
                   Contact sales
                 </OrbButton>
               </motion.div>
-              <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
+              <motion.div
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+              >
                 <OrbButton variant="secondary" href="https://demo.withorb.com/">
                   Explore demo
                 </OrbButton>
@@ -107,15 +114,42 @@ export function Hero() {
                 }}
               >
                 {[
-                  { src: "https://ext.same-assets.com/1462919619/2154558032.svg", alt: "Pinecone logo" },
-                  { src: "https://ext.same-assets.com/1462919619/1436847801.svg", alt: "Neo4j logo" },
-                  { src: "https://ext.same-assets.com/1462919619/414192898.svg", alt: "Meter logo" },
-                  { src: "https://ext.same-assets.com/1462919619/4058321007.svg", alt: "Stytch logo" },
-                  { src: "https://ext.same-assets.com/1462919619/2502586472.svg", alt: "Perplexity logo" },
-                  { src: "https://ext.same-assets.com/1462919619/1042729347.svg", alt: "Fal logo" },
-                  { src: "https://ext.same-assets.com/1462919619/3145215470.svg", alt: "Tinybird logo" },
-                  { src: "https://ext.same-assets.com/1462919619/861707653.svg", alt: "Braintrust logo" },
-                  { src: "https://ext.same-assets.com/1462919619/1549626332.svg", alt: "Ngrok logo" },
+                  {
+                    src: "https://ext.same-assets.com/1462919619/2154558032.svg",
+                    alt: "Pinecone logo",
+                  },
+                  {
+                    src: "https://ext.same-assets.com/1462919619/1436847801.svg",
+                    alt: "Neo4j logo",
+                  },
+                  {
+                    src: "https://ext.same-assets.com/1462919619/414192898.svg",
+                    alt: "Meter logo",
+                  },
+                  {
+                    src: "https://ext.same-assets.com/1462919619/4058321007.svg",
+                    alt: "Stytch logo",
+                  },
+                  {
+                    src: "https://ext.same-assets.com/1462919619/2502586472.svg",
+                    alt: "Perplexity logo",
+                  },
+                  {
+                    src: "https://ext.same-assets.com/1462919619/1042729347.svg",
+                    alt: "Fal logo",
+                  },
+                  {
+                    src: "https://ext.same-assets.com/1462919619/3145215470.svg",
+                    alt: "Tinybird logo",
+                  },
+                  {
+                    src: "https://ext.same-assets.com/1462919619/861707653.svg",
+                    alt: "Braintrust logo",
+                  },
+                  {
+                    src: "https://ext.same-assets.com/1462919619/1549626332.svg",
+                    alt: "Ngrok logo",
+                  },
                 ].map((logo) => (
                   <motion.div
                     key={logo.src}

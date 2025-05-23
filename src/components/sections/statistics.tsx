@@ -16,7 +16,9 @@ export function Statistics() {
               <p className="text-sm text-gray-500">For engineering teams</p>
             </div>
             <div className="flex items-end gap-3 mb-4">
-              <div className="text-4xl md:text-5xl font-medium text-orbBlue">80%</div>
+              <div className="text-4xl md:text-5xl font-medium text-orbBlue">
+                80%
+              </div>
             </div>
             <p className="text-gray-600 mb-4">
               Reduction in eng time to build billing for new products
@@ -49,7 +51,9 @@ export function Statistics() {
               <p className="text-sm text-gray-500">For OPS Teams</p>
             </div>
             <div className="flex items-end gap-3 mb-4">
-              <div className="text-4xl md:text-5xl font-medium text-orbBlue">75%</div>
+              <div className="text-4xl md:text-5xl font-medium text-orbBlue">
+                75%
+              </div>
             </div>
             <p className="text-gray-600 mb-4">
               Reduction in time spent on billing by the ops team
@@ -82,11 +86,11 @@ export function Statistics() {
               <p className="text-sm text-gray-500">For ops teams</p>
             </div>
             <div className="flex items-end gap-3 mb-4">
-              <div className="text-4xl md:text-5xl font-medium text-orbBlue">1.5M</div>
+              <div className="text-4xl md:text-5xl font-medium text-orbBlue">
+                1.5M
+              </div>
             </div>
-            <p className="text-gray-600 mb-4">
-              Invoices processed per month
-            </p>
+            <p className="text-gray-600 mb-4">Invoices processed per month</p>
             <div>
               <a
                 href="https://www.withorb.com/case-studies/supabase"

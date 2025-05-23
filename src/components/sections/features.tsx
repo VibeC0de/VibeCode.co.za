@@ -10,9 +10,9 @@ export function Features() {
       opacity: 1,
       y: 0,
       transition: {
-        duration: 0.5
-      }
-    }
+        duration: 0.5,
+      },
+    },
   };
 
   return (
@@ -45,7 +45,9 @@ export function Features() {
                 </h3>
               </div>
               <p className="text-gray-600 text-sm flex-grow">
-                Orb is flexible and nimble, so teams can experiment with pricing and fine-tune monetization at their own pace, while keeping costs under control.
+                Orb is flexible and nimble, so teams can experiment with pricing
+                and fine-tune monetization at their own pace, while keeping
+                costs under control.
               </p>
             </div>
           </motion.div>
@@ -77,7 +79,8 @@ export function Features() {
                 </h3>
               </div>
               <p className="text-gray-600 text-sm flex-grow">
-                Orb combines usage tracking, subscription management, invoicing and financial reporting so teams can bill confidently.
+                Orb combines usage tracking, subscription management, invoicing
+                and financial reporting so teams can bill confidently.
               </p>
             </div>
           </motion.div>
@@ -109,7 +112,9 @@ export function Features() {
                 </h3>
               </div>
               <p className="text-gray-600 text-sm flex-grow">
-                With seamless invoicing and financial reporting, Orb adapts billing to the speed of any business. So old, static systems won't slow down new growth.
+                With seamless invoicing and financial reporting, Orb adapts
+                billing to the speed of any business. So old, static systems
+                won't slow down new growth.
               </p>
             </div>
           </motion.div>

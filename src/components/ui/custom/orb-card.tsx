@@ -1,4 +1,4 @@
-import React from "react";
+import type React from "react";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
 
@@ -23,7 +23,7 @@ export function OrbCard({
 }: OrbCardProps) {
   // Base classes
   const baseClasses = "rounded-xl overflow-hidden transition-all duration-200";
-  
+
   // Variant classes
   const variantClasses = {
     default: "bg-white shadow-sm",
@@ -31,7 +31,7 @@ export function OrbCard({
     elevated: "bg-white shadow-md",
     flat: "bg-orbGray-50",
   };
-  
+
   // Padding classes
   const paddingClasses = {
     none: "",
@@ -39,7 +39,7 @@ export function OrbCard({
     md: "p-6",
     lg: "p-8",
   };
-  
+
   // Hover effect classes
   const hoverClasses = {
     none: "",
@@ -47,16 +47,16 @@ export function OrbCard({
     scale: "hover:scale-[1.02] hover:shadow-md",
     border: "hover:border-orbBlue-600",
   };
-  
+
   // Combine all classes
   const classes = cn(
     baseClasses,
     variantClasses[variant],
     paddingClasses[padding],
     hoverClasses[hoverEffect],
-    className
+    className,
   );
-  
+
   // Render as link, button, or div
   if (href) {
     return (
@@ -65,7 +65,7 @@ export function OrbCard({
       </Link>
     );
   }
-  
+
   if (onClick) {
     return (
       <button onClick={onClick} className={cn(classes, "text-left w-full")}>
@@ -73,7 +73,7 @@ export function OrbCard({
       </button>
     );
   }
-  
+
   return <div className={classes}>{children}</div>;
 }
 
@@ -84,11 +84,7 @@ interface OrbCardHeaderProps {
 }
 
 export function OrbCardHeader({ className, children }: OrbCardHeaderProps) {
-  return (
-    <div className={cn("mb-4", className)}>
-      {children}
-    </div>
-  );
+  return <div className={cn("mb-4", className)}>{children}</div>;
 }
 
 // Card title component
@@ -98,11 +94,7 @@ interface OrbCardTitleProps {
 }
 
 export function OrbCardTitle({ className, children }: OrbCardTitleProps) {
-  return (
-    <h3 className={cn("text-xl font-semibold", className)}>
-      {children}
-    </h3>
-  );
+  return <h3 className={cn("text-xl font-semibold", className)}>{children}</h3>;
 }
 
 // Card description component
@@ -111,12 +103,11 @@ interface OrbCardDescriptionProps {
   children: React.ReactNode;
 }
 
-export function OrbCardDescription({ className, children }: OrbCardDescriptionProps) {
-  return (
-    <p className={cn("text-orbGray-600", className)}>
-      {children}
-    </p>
-  );
+export function OrbCardDescription({
+  className,
+  children,
+}: OrbCardDescriptionProps) {
+  return <p className={cn("text-orbGray-600", className)}>{children}</p>;
 }
 
 // Card content component
@@ -126,11 +117,7 @@ interface OrbCardContentProps {
 }
 
 export function OrbCardContent({ className, children }: OrbCardContentProps) {
-  return (
-    <div className={cn("", className)}>
-      {children}
-    </div>
-  );
+  return <div className={cn("", className)}>{children}</div>;
 }
 
 // Card footer component
@@ -155,11 +142,11 @@ interface OrbCardImageProps {
   aspectRatio?: "auto" | "square" | "video" | "wide";
 }
 
-export function OrbCardImage({ 
-  className, 
-  src, 
+export function OrbCardImage({
+  className,
+  src,
   alt,
-  aspectRatio = "auto" 
+  aspectRatio = "auto",
 }: OrbCardImageProps) {
   // Aspect ratio classes
   const aspectRatioClasses = {
@@ -168,14 +155,16 @@ export function OrbCardImage({
     video: "aspect-video",
     wide: "aspect-[21/9]",
   };
-  
+
   return (
-    <div className={cn("overflow-hidden", aspectRatioClasses[aspectRatio], className)}>
-      <img 
-        src={src} 
-        alt={alt} 
-        className="w-full h-full object-cover"
-      />
+    <div
+      className={cn(
+        "overflow-hidden",
+        aspectRatioClasses[aspectRatio],
+        className,
+      )}
+    >
+      <img src={src} alt={alt} className="w-full h-full object-cover" />
     </div>
   );
 }
