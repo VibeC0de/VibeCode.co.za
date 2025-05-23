@@ -10,7 +10,9 @@ export function Integrations() {
             We integrate with the tools you already use
           </h2>
           <p className="text-gray-600 md:text-lg">
-            Orb's billing and invoicing seamlessly connect with any current stack. Plug into Quickbooks, NetSuite, Stripe, Bill.com, Salesforce, and more right away.
+            Orb's billing and invoicing seamlessly connect with any current
+            stack. Plug into Quickbooks, NetSuite, Stripe, Bill.com, Salesforce,
+            and more right away.
           </p>
           <div className="mt-8">
             <OrbButton
@@ -79,7 +81,9 @@ export function Integrations() {
           {/* Testimonial 1 */}
           <div className="p-8 bg-white rounded-lg shadow-sm border border-gray-100">
             <p className="text-gray-700 italic mb-6">
-              "Pricing and billing are no longer blockers to our engineering velocity and our entire organization is on the same page when it comes to usage metrics and billing."
+              "Pricing and billing are no longer blockers to our engineering
+              velocity and our entire organization is on the same page when it
+              comes to usage metrics and billing."
             </p>
             <div className="flex items-center">
               <div>
@@ -99,7 +103,9 @@ export function Integrations() {
           {/* Testimonial 2 */}
           <div className="p-8 bg-white rounded-lg shadow-sm border border-gray-100">
             <p className="text-gray-700 italic mb-6">
-              "Orb helps us stay ahead by empowering us to evolve our billing structure while retaining accuracy, visibility, and a trusted source of truth."
+              "Orb helps us stay ahead by empowering us to evolve our billing
+              structure while retaining accuracy, visibility, and a trusted
+              source of truth."
             </p>
             <div className="flex items-center">
               <div>
@@ -119,7 +125,8 @@ export function Integrations() {
           {/* Testimonial 3 */}
           <div className="p-8 bg-white rounded-lg shadow-sm border border-gray-100">
             <p className="text-gray-700 italic mb-6">
-              "Orb made our launch possible by making pricing changes easy and stress-free up until the last minute."
+              "Orb made our launch possible by making pricing changes easy and
+              stress-free up until the last minute."
             </p>
             <div className="flex items-center">
               <div>
@@ -139,7 +146,9 @@ export function Integrations() {
           {/* Testimonial 4 */}
           <div className="p-8 bg-white rounded-lg shadow-sm border border-gray-100">
             <p className="text-gray-700 italic mb-6">
-              "Orb is the source of truth for our usage information and, as a result, it's a core building block of our financial processes and systems."
+              "Orb is the source of truth for our usage information and, as a
+              result, it's a core building block of our financial processes and
+              systems."
             </p>
             <div className="flex items-center">
               <div>
@@ -158,11 +167,13 @@ export function Integrations() {
         </div>
 
         <div className="mt-16 text-center max-w-3xl mx-auto">
-          <h3 className="text-2xl font-medium mb-4">
-            We're a trusted partner
-          </h3>
+          <h3 className="text-2xl font-medium mb-4">We're a trusted partner</h3>
           <p className="text-gray-600 mb-8">
-            Orb is a partner and thought leader for industry-leading SaaS companies—guiding them through new pricing evolutions and mission-critical revenue initiatives. These companies are just a few examples of how switching to Orb can help evolve your billing and empower your business.
+            Orb is a partner and thought leader for industry-leading SaaS
+            companies—guiding them through new pricing evolutions and
+            mission-critical revenue initiatives. These companies are just a few
+            examples of how switching to Orb can help evolve your billing and
+            empower your business.
           </p>
           <OrbButton
             variant="secondary"

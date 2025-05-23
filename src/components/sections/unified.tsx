@@ -23,11 +23,16 @@ export function Unified() {
 
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-medium mb-6 max-w-3xl">
             <span className="block">Unified billing & data</span>
-            <span className="text-orbBlue block">the new approach to revenue</span>
+            <span className="text-orbBlue block">
+              the new approach to revenue
+            </span>
           </h2>
 
           <p className="text-gray-600 md:text-lg max-w-2xl">
-            We're redefining how modern software companies approach pricing and billing. By detaching usage data from pricing metrics, we enable the power to try new things. So there's freedom to move faster, be smarter, and ensure billing works for everyone.
+            We're redefining how modern software companies approach pricing and
+            billing. By detaching usage data from pricing metrics, we enable the
+            power to try new things. So there's freedom to move faster, be
+            smarter, and ensure billing works for everyone.
           </p>
         </div>
 

@@ -21,7 +21,8 @@ export function CTA() {
           </h2>
 
           <p className="text-blue-100 md:text-lg mb-10 max-w-2xl mx-auto">
-            Leave legacy billing systems behind. Get a subscription management platform that makes billing work for all.
+            Leave legacy billing systems behind. Get a subscription management
+            platform that makes billing work for all.
           </p>
 
           <div className="flex flex-col sm:flex-row justify-center gap-4">

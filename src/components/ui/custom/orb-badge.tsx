@@ -1,4 +1,4 @@
-import React from "react";
+import type React from "react";
 import { cn } from "@/lib/utils";
 
 interface OrbBadgeProps {
@@ -17,15 +17,16 @@ export function OrbBadge({
   rounded = false,
 }: OrbBadgeProps) {
   // Base classes
-  const baseClasses = "inline-flex items-center justify-center font-medium transition-colors";
-  
+  const baseClasses =
+    "inline-flex items-center justify-center font-medium transition-colors";
+
   // Size variations
   const sizeClasses = {
     sm: "px-2 py-0.5 text-xs",
     md: "px-2.5 py-0.5 text-sm",
     lg: "px-3 py-1 text-base",
   };
-  
+
   // Variant styles
   const variantClasses = {
     blue: "bg-orbBlue-100 text-orbBlue-800",
@@ -35,22 +36,18 @@ export function OrbBadge({
     pink: "bg-pink-100 text-pink-800",
     outline: "bg-transparent border border-current text-orbBlue-600",
   };
-  
+
   // Rounded styles
   const roundedClasses = rounded ? "rounded-full" : "rounded";
-  
+
   // Combine all classes
   const classes = cn(
     baseClasses,
     sizeClasses[size],
     variantClasses[variant],
     roundedClasses,
-    className
+    className,
   );
-  
-  return (
-    <span className={classes}>
-      {children}
-    </span>
-  );
+
+  return <span className={classes}>{children}</span>;
 }

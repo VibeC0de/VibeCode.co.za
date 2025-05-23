@@ -8,35 +8,55 @@ export function Footer() {
       <div className="orb-container">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 pb-12">
           <div>
-            <h4 className="text-base font-semibold mb-5 text-orbGray-900 dark:text-white">Company</h4>
+            <h4 className="text-base font-semibold mb-5 text-orbGray-900 dark:text-white">
+              Company
+            </h4>
             <ul className="space-y-3">
               <li>
-                <Link href="/" className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white">
+                <Link
+                  href="/"
+                  className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white"
+                >
                   About us
                 </Link>
               </li>
               <li>
-                <Link href="/" className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white">
+                <Link
+                  href="/"
+                  className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white"
+                >
                   Our Team
                 </Link>
               </li>
               <li>
-                <Link href="/" className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white">
+                <Link
+                  href="/"
+                  className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white"
+                >
                   Testimonials
                 </Link>
               </li>
               <li>
-                <Link href="/" className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white">
+                <Link
+                  href="/"
+                  className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white"
+                >
                   Partners
                 </Link>
               </li>
               <li>
-                <Link href="/" className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white">
+                <Link
+                  href="/"
+                  className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white"
+                >
                   Press
                 </Link>
               </li>
               <li>
-                <Link href="/" className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white">
+                <Link
+                  href="/"
+                  className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white"
+                >
                   Contact us
                 </Link>
               </li>
@@ -44,35 +64,55 @@ export function Footer() {
           </div>
 
           <div>
-            <h4 className="text-base font-semibold mb-5 text-orbGray-900 dark:text-white">Resources</h4>
+            <h4 className="text-base font-semibold mb-5 text-orbGray-900 dark:text-white">
+              Resources
+            </h4>
             <ul className="space-y-3">
               <li>
-                <Link href="/" className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white">
+                <Link
+                  href="/"
+                  className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white"
+                >
                   Blog
                 </Link>
               </li>
               <li>
-                <Link href="/" className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white">
+                <Link
+                  href="/"
+                  className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white"
+                >
                   Support
                 </Link>
               </li>
               <li>
-                <Link href="/" className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white">
+                <Link
+                  href="/"
+                  className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white"
+                >
                   Pricing
                 </Link>
               </li>
               <li>
-                <Link href="/" className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white">
+                <Link
+                  href="/"
+                  className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white"
+                >
                   Portfolio
                 </Link>
               </li>
               <li>
-                <Link href="/" className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white">
+                <Link
+                  href="/"
+                  className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white"
+                >
                   Case Studies
                 </Link>
               </li>
               <li>
-                <Link href="/" className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white">
+                <Link
+                  href="/"
+                  className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white"
+                >
                   FAQ
                 </Link>
               </li>
@@ -80,34 +120,52 @@ export function Footer() {
           </div>
 
           <div>
-            <h4 className="text-base font-semibold mb-5 text-orbGray-900 dark:text-white">Services</h4>
+            <h4 className="text-base font-semibold mb-5 text-orbGray-900 dark:text-white">
+              Services
+            </h4>
             <ul className="space-y-3">
               <li>
-                <Link href="/" className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white">
+                <Link
+                  href="/"
+                  className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white"
+                >
                   Web Development
                 </Link>
               </li>
               <li>
-                <Link href="/" className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white">
+                <Link
+                  href="/"
+                  className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white"
+                >
                   UI/UX Design
                 </Link>
               </li>
               <li>
-                <Link href="/" className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white">
+                <Link
+                  href="/"
+                  className="text-orbGray-600 hover:text-orbBlue-600 transition-colors text-sm dark:text-orbGray-400 dark:hover:text-white"
+                >
                   E-Commerce
                 </Link>
               </li>
             </ul>
 
             <div className="mt-8">
-              <OrbButton variant="primary" size="sm" href="/" className="w-full justify-center">
+              <OrbButton
+                variant="primary"
+                size="sm"
+                href="/"
+                className="w-full justify-center"
+              >
                 Get Started
               </OrbButton>
             </div>
           </div>
 
           <div>
-            <h4 className="text-base font-semibold mb-5 text-orbGray-900 dark:text-white">Connect with us</h4>
+            <h4 className="text-base font-semibold mb-5 text-orbGray-900 dark:text-white">
+              Connect with us
+            </h4>
             <div className="flex space-x-5 mb-6">
               <a
                 href="https://www.linkedin.com/company/orbhq/"
@@ -183,18 +241,28 @@ export function Footer() {
                 />
               </Link>
               <span className="text-sm text-orbGray-500 dark:text-orbGray-400">
-                © {new Date().getFullYear()} VibeCode.co.za. All rights reserved.
+                © {new Date().getFullYear()} VibeCode.co.za. All rights
+                reserved.
               </span>
             </div>
 
             <div className="flex gap-6 text-sm text-orbGray-500 dark:text-orbGray-400">
-              <Link href="/" className="hover:text-orbBlue-600 transition-colors dark:hover:text-white">
+              <Link
+                href="/"
+                className="hover:text-orbBlue-600 transition-colors dark:hover:text-white"
+              >
                 Terms of Service
               </Link>
-              <Link href="/" className="hover:text-orbBlue-600 transition-colors dark:hover:text-white">
+              <Link
+                href="/"
+                className="hover:text-orbBlue-600 transition-colors dark:hover:text-white"
+              >
                 Website Terms of Use
               </Link>
-              <Link href="/" className="hover:text-orbBlue-600 transition-colors dark:hover:text-white">
+              <Link
+                href="/"
+                className="hover:text-orbBlue-600 transition-colors dark:hover:text-white"
+              >
                 Privacy Policy
               </Link>
             </div>

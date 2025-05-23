@@ -10,45 +10,38 @@ export function ProductFeatures() {
           <div className="flex-1 order-2 md:order-1">
             <div className="bg-white rounded-xl shadow-md overflow-hidden">
               <div className="bg-[#1E293B] p-4 text-white font-mono text-sm">
-                <p className="text-green-400">-- Define custom metrics with SQL</p>
-                <div className="mt-2 text-blue-300">
-                  SELECT
-                </div>
-                <div className="ml-4 text-gray-100">
-                  customer_id,
-                </div>
+                <p className="text-green-400">
+                  -- Define custom metrics with SQL
+                </p>
+                <div className="mt-2 text-blue-300">SELECT</div>
+                <div className="ml-4 text-gray-100">customer_id,</div>
                 <div className="ml-4 text-gray-100">
                   SUM(tokens) as total_tokens,
                 </div>
                 <div className="ml-4 text-gray-100">
                   COUNT(*) as query_count
                 </div>
-                <div className="text-blue-300">
-                  FROM events
-                </div>
-                <div className="text-blue-300">
-                  WHERE
-                </div>
+                <div className="text-blue-300">FROM events</div>
+                <div className="text-blue-300">WHERE</div>
                 <div className="ml-4 text-gray-100">
                   event_type = 'query' AND
                 </div>
                 <div className="ml-4 text-gray-100">
                   timestamp BETWEEN '2023-04-01' AND '2023-04-30'
                 </div>
-                <div className="text-blue-300">
-                  GROUP BY
-                </div>
-                <div className="ml-4 text-gray-100">
-                  customer_id
-                </div>
+                <div className="text-blue-300">GROUP BY</div>
+                <div className="ml-4 text-gray-100">customer_id</div>
               </div>
             </div>
           </div>
 
           <div className="flex-1 order-1 md:order-2 flex flex-col justify-center">
-            <h3 className="text-xl mb-6 inline-block font-mono bg-orbGreen px-3 py-1 rounded-md">Custom SQL</h3>
+            <h3 className="text-xl mb-6 inline-block font-mono bg-orbGreen px-3 py-1 rounded-md">
+              Custom SQL
+            </h3>
             <h2 className="text-3xl md:text-4xl font-medium mb-6">
-              Define any billing metric and visualize usage with the full power of SQL.
+              Define any billing metric and visualize usage with the full power
+              of SQL.
             </h2>
           </div>
         </div>
@@ -61,7 +54,8 @@ export function ProductFeatures() {
             </h2>
 
             <p className="text-gray-600 md:text-lg mb-8">
-              Orb ingests and processes all raw event data, so teams can get precise, error-free billing, as well as future-proof pricing.
+              Orb ingests and processes all raw event data, so teams can get
+              precise, error-free billing, as well as future-proof pricing.
             </p>
 
             <div>
@@ -103,9 +97,12 @@ export function ProductFeatures() {
           <div className="flex-1 order-2 md:order-1">
             <div className="relative">
               <div className="bg-gray-100 p-6 rounded-xl">
-                <h4 className="text-sm text-gray-500 mb-2">Versions and Migrations</h4>
+                <h4 className="text-sm text-gray-500 mb-2">
+                  Versions and Migrations
+                </h4>
                 <p className="font-medium">
-                  The first-ever feature for managing legacy pricing and rolling out bulk price changes with granular control.
+                  The first-ever feature for managing legacy pricing and rolling
+                  out bulk price changes with granular control.
                 </p>
               </div>
             </div>
@@ -117,7 +114,9 @@ export function ProductFeatures() {
             </h2>
 
             <p className="text-gray-600 md:text-lg mb-8">
-              Launch and test new pricing without having to add team members or fulfill rigid system requirements. Orb supports all models: usage, subscription and hybrid.
+              Launch and test new pricing without having to add team members or
+              fulfill rigid system requirements. Orb supports all models: usage,
+              subscription and hybrid.
             </p>
 
             <div>
@@ -145,7 +144,9 @@ export function ProductFeatures() {
             </h2>
 
             <p className="text-gray-600 md:text-lg mb-8">
-              With Orb, every team can leverage their data, query it seamlessly and add-on billing, invoicing, and reporting—all while remaining compliant.
+              With Orb, every team can leverage their data, query it seamlessly
+              and add-on billing, invoicing, and reporting—all while remaining
+              compliant.
             </p>
 
             <div>
@@ -173,7 +174,8 @@ export function ProductFeatures() {
               />
             </div>
             <p className="text-sm text-gray-500 mt-3">
-              Get accurate and efficient revenue recognition, on top of the same underlying data that drives your billing.
+              Get accurate and efficient revenue recognition, on top of the same
+              underlying data that drives your billing.
             </p>
           </div>
         </div>

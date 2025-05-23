@@ -1,4 +1,4 @@
-import React from "react";
+import type React from "react";
 import { cn } from "@/lib/utils";
 
 interface OrbSectionProps {
@@ -24,7 +24,7 @@ export function OrbSection({
     md: "py-16 md:py-24",
     lg: "py-24 md:py-32",
   };
-  
+
   // Background variations
   const backgroundClasses = {
     white: "bg-white",
@@ -33,24 +33,18 @@ export function OrbSection({
     gradient: "orb-gradient-blue text-white",
     none: "",
   };
-  
+
   // Section classes
   const sectionClasses = cn(
     "relative overflow-hidden",
     sizeClasses[size],
     backgroundClasses[background],
-    className
+    className,
   );
-  
+
   return (
     <section className={sectionClasses} id={id}>
-      {container ? (
-        <div className="orb-container">
-          {children}
-        </div>
-      ) : (
-        children
-      )}
+      {container ? <div className="orb-container">{children}</div> : children}
     </section>
   );
 }
@@ -82,19 +76,26 @@ export function OrbSectionHeader({
     center: "text-center mx-auto",
     right: "text-right ml-auto",
   };
-  
+
   return (
     <div className={cn("mb-12 max-w-3xl", alignClasses[align], className)}>
       {label && (
-        <p className={cn("text-sm font-mono uppercase text-orbGray-500 mb-2", labelClassName)}>
+        <p
+          className={cn(
+            "text-sm font-mono uppercase text-orbGray-500 mb-2",
+            labelClassName,
+          )}
+        >
           {label}
         </p>
       )}
-      
-      <h2 className={cn("text-3xl md:text-4xl font-medium mb-4", titleClassName)}>
+
+      <h2
+        className={cn("text-3xl md:text-4xl font-medium mb-4", titleClassName)}
+      >
         {title}
       </h2>
-      
+
       {subtitle && (
         <p className={cn("text-lg text-orbGray-600", subtitleClassName)}>
           {subtitle}

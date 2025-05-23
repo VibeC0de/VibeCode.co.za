@@ -12,7 +12,7 @@ export function EnhancedHero() {
     const canvas = canvasRef.current;
     if (!canvas) return;
 
-    const ctx = canvas.getContext('2d');
+    const ctx = canvas.getContext("2d");
     if (!ctx) return;
 
     // Set canvas dimensions
@@ -22,7 +22,7 @@ export function EnhancedHero() {
     };
 
     setCanvasDimensions();
-    window.addEventListener('resize', setCanvasDimensions);
+    window.addEventListener("resize", setCanvasDimensions);
 
     // Particle class
     class Particle {
@@ -43,9 +43,9 @@ export function EnhancedHero() {
 
         // Colors from our theme
         const colors = [
-          'rgba(28, 84, 176, 0.5)',  // orbBlue
-          'rgba(80, 182, 218, 0.5)',  // orbCyan
-          'rgba(210, 244, 39, 0.3)',  // orbGreen
+          "rgba(28, 84, 176, 0.5)", // orbBlue
+          "rgba(80, 182, 218, 0.5)", // orbCyan
+          "rgba(210, 244, 39, 0.3)", // orbGreen
         ];
 
         this.color = colors[Math.floor(Math.random() * colors.length)];
@@ -78,7 +78,10 @@ export function EnhancedHero() {
     const particlesArray: Particle[] = [];
     const width = canvas.width;
     const height = canvas.height;
-    const numberOfParticles = Math.min(50, Math.floor(width * height / 15000));
+    const numberOfParticles = Math.min(
+      50,
+      Math.floor((width * height) / 15000),
+    );
 
     for (let i = 0; i < numberOfParticles; i++) {
       particlesArray.push(new Particle());
@@ -112,7 +115,7 @@ export function EnhancedHero() {
           const distance = Math.sqrt(dx * dx + dy * dy);
 
           if (distance < maxDistance) {
-            const opacity = 1 - (distance / maxDistance);
+            const opacity = 1 - distance / maxDistance;
             ctx.strokeStyle = `rgba(150, 167, 192, ${opacity * 0.3})`;
             ctx.lineWidth = 1;
             ctx.beginPath();
@@ -127,7 +130,7 @@ export function EnhancedHero() {
     animate();
 
     return () => {
-      window.removeEventListener('resize', setCanvasDimensions);
+      window.removeEventListener("resize", setCanvasDimensions);
     };
   }, []);
 
@@ -140,7 +143,7 @@ export function EnhancedHero() {
       />
 
       {/* Gradient overlay */}
-      <div className="absolute inset-0 bg-gradient-to-b from-transparent to-white dark:to-orbGray-900 z-10"></div>
+      <div className="absolute inset-0 bg-gradient-to-b from-transparent to-white dark:to-orbGray-900 z-10" />
 
       {/* Content */}
       <div className="relative z-20 orb-container">
@@ -170,7 +173,8 @@ export function EnhancedHero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
           >
-            Cutting-edge web development services for businesses looking to establish a powerful online presence.
+            Cutting-edge web development services for businesses looking to
+            establish a powerful online presence.
           </motion.p>
 
           <motion.div
@@ -193,11 +197,18 @@ export function EnhancedHero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.4 }}
           >
-            {['React', 'Next.js', 'Tailwind CSS', 'TypeScript'].map((technology) => (
-              <div key={technology} className="flex items-center justify-center">
-                <div className="text-orbGray-400 dark:text-orbGray-500 font-medium text-lg">{technology}</div>
-              </div>
-            ))}
+            {["React", "Next.js", "Tailwind CSS", "TypeScript"].map(
+              (technology) => (
+                <div
+                  key={technology}
+                  className="flex items-center justify-center"
+                >
+                  <div className="text-orbGray-400 dark:text-orbGray-500 font-medium text-lg">
+                    {technology}
+                  </div>
+                </div>
+              ),
+            )}
           </motion.div>
         </div>
       </div>
